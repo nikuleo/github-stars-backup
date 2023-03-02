@@ -1,1026 +1,1067 @@
 - repo name: DRQN_Stock_Trading
+  url: https://github.com/conditionWang/DRQN_Stock_Trading
+  description: 'This is the code implementation of the paper "Financial Trading as
+    a Game: A Deep Reinforcement Learning Approach".'
   author: conditionWang
   author's github: https://github.com/conditionWang
-  url: https://github.com/conditionWang/DRQN_Stock_Trading
-  description: ""
   language: Python
   tags: drqn, lstm, reinforcement-learning, stock-trading
 - repo name: podcast
+  url: https://github.com/bumingbaipod/podcast
+  description: 此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。  版权所有 ©️ 不明白播客 bumingbai.net
   author: bumingbaipod
   author's github: https://github.com/bumingbaipod
-  url: https://github.com/bumingbaipod/podcast
-  description: ""
   language: ""
   tags: ""
 - repo name: MES40
+  url: https://github.com/KH40-khoast40/MES40
+  description: MMD Extended Shader (MES40)
   author: KH40-khoast40
   author's github: https://github.com/KH40-khoast40
-  url: https://github.com/KH40-khoast40/MES40
-  description: ""
   language: HLSL
   tags: diva, fx, hlsl, materials, mikumikudance, mikumikueffect, mmd, mme, project,
     shader, shadow
 - repo name: PyTorch-Deep-Recurrent-Q-Learning-DRQN
-  author: Bigpig4396
-  author's github: https://github.com/Bigpig4396
   url: https://github.com/Bigpig4396/PyTorch-Deep-Recurrent-Q-Learning-DRQN
   description: ""
+  author: Bigpig4396
+  author's github: https://github.com/Bigpig4396
   language: Python
   tags: ""
 - repo name: recurrent-ppo-truncated-bptt
+  url: https://github.com/MarcoMeter/recurrent-ppo-truncated-bptt
+  description: Baseline implementation of recurrent PPO using truncated BPTT
   author: MarcoMeter
   author's github: https://github.com/MarcoMeter
-  url: https://github.com/MarcoMeter/recurrent-ppo-truncated-bptt
-  description: ""
   language: Jupyter Notebook
   tags: actor-critic, bptt, deep-learning, deep-reinforcement-learning, gru, lstm,
     on-policy, policy-gradient, pomdp, ppo, proximal-policy-optimization, pytorch,
     recurrence, recurrent, recurrent-neural-networks, truncated
 - repo name: RL-LSTM
-  author: RL-LSTM
-  author's github: https://github.com/RL-LSTM
   url: https://github.com/RL-LSTM/RL-LSTM
   description: ""
+  author: RL-LSTM
+  author's github: https://github.com/RL-LSTM
   language: Python
   tags: ""
 - repo name: ConvLSTM_pytorch
+  url: https://github.com/ndrplz/ConvLSTM_pytorch
+  description: Implementation of Convolutional LSTM in PyTorch.
   author: ndrplz
   author's github: https://github.com/ndrplz
-  url: https://github.com/ndrplz/ConvLSTM_pytorch
-  description: ""
   language: Python
   tags: ""
 - repo name: dl_learning
-  author: liuyixin-louis
-  author's github: https://github.com/liuyixin-louis
   url: https://github.com/liuyixin-louis/dl_learning
   description: ""
+  author: liuyixin-louis
+  author's github: https://github.com/liuyixin-louis
   language: Jupyter Notebook
   tags: ""
 - repo name: text_classification
+  url: https://github.com/brightmart/text_classification
+  description: all kinds of text classification models and more with deep learning
   author: brightmart
   author's github: https://github.com/brightmart
-  url: https://github.com/brightmart/text_classification
-  description: ""
   language: Python
   tags: attention-mechanism, classification, convolutional-neural-networks, fasttext,
     memory-networks, multi-class, multi-label, nlp, sentence-classification, tensorflow,
     text-classification, textcnn, textrnn
 - repo name: cocogoat-signin
+  url: https://github.com/Akegarasu/cocogoat-signin
+  description: 椰羊签到 - 年轻人的第一款米游社签到工具
   author: Akegarasu
   author's github: https://github.com/Akegarasu
-  url: https://github.com/Akegarasu/cocogoat-signin
-  description: ""
   language: Go
   tags: genshin, golang
 - repo name: ImageAI-colab-ver
+  url: https://github.com/JingShing/ImageAI-colab-ver
+  description: It has no matter with novel.
   author: JingShing
   author's github: https://github.com/JingShing
-  url: https://github.com/JingShing/ImageAI-colab-ver
-  description: ""
   language: ""
   tags: ai, colab, colab-notebook, drawing, encrypt, encrypted, encryption, encryption-decryption,
     imageai, ipynb, ipython-notebook, stable-diffusion-tutorial, tutorial
 - repo name: TikTokLite
+  url: https://github.com/xiaodainiao/TikTokLite
+  description: 字节青训营抖音APP
   author: xiaodainiao
   author's github: https://github.com/xiaodainiao
-  url: https://github.com/xiaodainiao/TikTokLite
-  description: ""
   language: Go
   tags: ""
 - repo name: mikutap
+  url: https://github.com/HFIProgramming/mikutap
+  description: A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
   author: HFIProgramming
   author's github: https://github.com/HFIProgramming
-  url: https://github.com/HFIProgramming/mikutap
-  description: ""
   language: HTML
   tags: css, html, js, mikutap, music
 - repo name: run
+  url: https://github.com/better-run/run
+  description: 华润万家(Run/移民/跑路)
   author: better-run
   author's github: https://github.com/better-run
-  url: https://github.com/better-run/run
-  description: ""
   language: ""
   tags: run
 - repo name: AI-Drawing-Spell-Generator
+  url: https://github.com/JingShing/AI-Drawing-Spell-Generator
+  description: A generator help you spawn key word for AI drawing
   author: JingShing
   author's github: https://github.com/JingShing
-  url: https://github.com/JingShing/AI-Drawing-Spell-Generator
-  description: ""
   language: Python
   tags: dictionary, generator, imageai, keyword, novelai, python, stable-diffusion,
     tag, tags, tkinter, tkinter-gui, word
 - repo name: DouDiZhu
-  author: "1310183534"
-  author's github: https://github.com/1310183534
   url: https://github.com/1310183534/DouDiZhu
   description: ""
+  author: "1310183534"
+  author's github: https://github.com/1310183534
   language: Python
   tags: ""
 - repo name: stylegan2-pytorch
+  url: https://github.com/lucidrains/stylegan2-pytorch
+  description: Simplest working implementation of Stylegan2, state of the art generative
+    adversarial network, in Pytorch. Enabling everyone to experience disentanglement
   author: lucidrains
   author's github: https://github.com/lucidrains
-  url: https://github.com/lucidrains/stylegan2-pytorch
-  description: ""
   language: Python
   tags: artificial-intelligence, generative-adversarial-network, generative-model,
     machine-learning, pytorch
 - repo name: RuleBasedModelV2
+  url: https://github.com/deecamp2019-group20/RuleBasedModelV2
+  description: 改进过的rule版本
   author: deecamp2019-group20
   author's github: https://github.com/deecamp2019-group20
-  url: https://github.com/deecamp2019-group20/RuleBasedModelV2
-  description: ""
   language: Python
   tags: ""
 - repo name: dueling-DQN-pytorch
+  url: https://github.com/gouxiangchen/dueling-DQN-pytorch
+  description: very easy implementation of dueling DQN in pytorch
   author: gouxiangchen
   author's github: https://github.com/gouxiangchen
-  url: https://github.com/gouxiangchen/dueling-DQN-pytorch
-  description: ""
   language: Python
   tags: ""
 - repo name: OpenAI-Gym-LunarLander-v2-Double-Dueling-DQN
+  url: https://github.com/bmaxdk/OpenAI-Gym-LunarLander-v2-Double-Dueling-DQN
+  description: Apply Double Dueling DQN
   author: bmaxdk
   author's github: https://github.com/bmaxdk
-  url: https://github.com/bmaxdk/OpenAI-Gym-LunarLander-v2-Double-Dueling-DQN
-  description: ""
   language: Jupyter Notebook
   tags: deep-reinforcement-learning, double-dqn, dueling-dqn, pytorch, reinforcement-learning
 - repo name: RL-Algorithms-by-Pytorch
+  url: https://github.com/XinJingHao/RL-Algorithms-by-Pytorch
+  description: Clean and robust implementations of Reinforcement Learning algorithms
+    by Pytorch
   author: XinJingHao
   author's github: https://github.com/XinJingHao
-  url: https://github.com/XinJingHao/RL-Algorithms-by-Pytorch
-  description: ""
   language: ""
   tags: ""
 - repo name: go-wrk
+  url: https://github.com/adjust/go-wrk
+  description: a small heavy duty http/https benchmark tool written in go
   author: adjust
   author's github: https://github.com/adjust
-  url: https://github.com/adjust/go-wrk
-  description: ""
   language: Go
   tags: ""
 - repo name: doudizhu
+  url: https://github.com/CaoYuanpu/doudizhu
+  description: :spades:斗地主引擎
   author: CaoYuanpu
   author's github: https://github.com/CaoYuanpu
-  url: https://github.com/CaoYuanpu/doudizhu
-  description: ""
   language: Python
   tags: ""
 - repo name: smoothscroll-for-websites
+  url: https://github.com/gblazex/smoothscroll-for-websites
+  description: Smooth scrolling experience for websites.
   author: gblazex
   author's github: https://github.com/gblazex
-  url: https://github.com/gblazex/smoothscroll-for-websites
-  description: ""
   language: JavaScript
   tags: ""
 - repo name: tianshou
+  url: https://github.com/thu-ml/tianshou
+  description: An elegant PyTorch deep reinforcement learning library.
   author: thu-ml
   author's github: https://github.com/thu-ml
-  url: https://github.com/thu-ml/tianshou
-  description: ""
   language: Python
   tags: a2c, atari, bcq, benchmark, cql, ddpg, double-dqn, dqn, drl, imitation-learning,
     library, mujoco, npg, policy-gradient, ppo, pytorch, rl, sac, td3, trpo
 - repo name: fight
+  url: https://github.com/BillyWangwzx/fight
+  description: fight with landlord (斗地主AI）
   author: BillyWangwzx
   author's github: https://github.com/BillyWangwzx
-  url: https://github.com/BillyWangwzx/fight
-  description: ""
   language: Python
   tags: ""
 - repo name: fighting_the_landlord
+  url: https://github.com/leyiqiang/fighting_the_landlord
+  description: Fighting the Landlord AI 基于Minimax和MCTS的两种斗地主算法
   author: leyiqiang
   author's github: https://github.com/leyiqiang
-  url: https://github.com/leyiqiang/fighting_the_landlord
-  description: ""
   language: Python
   tags: ""
 - repo name: doudizhu
+  url: https://github.com/thuxugang/doudizhu
+  description: AI斗地主
   author: thuxugang
   author's github: https://github.com/thuxugang
-  url: https://github.com/thuxugang/doudizhu
-  description: ""
   language: Python
   tags: ai, card-game, doudizhu, dqn, mcts, reinforcement-learning
 - repo name: MCTS
+  url: https://github.com/haroldsultan/MCTS
+  description: Python Implementations of Monte Carlo Tree Search
   author: haroldsultan
   author's github: https://github.com/haroldsultan
-  url: https://github.com/haroldsultan/MCTS
-  description: ""
   language: Python
   tags: ""
 - repo name: sniper
+  url: https://github.com/go-kiss/sniper
+  description: 轻量级 go 业务框架
   author: go-kiss
   author's github: https://github.com/go-kiss
-  url: https://github.com/go-kiss/sniper
-  description: ""
   language: Go
   tags: go, golang, golang-framework, grpc, http, rpc
 - repo name: ohmyzsh
+  url: https://github.com/ohmyzsh/ohmyzsh
+  description: "\U0001F643   A delightful community-driven (with 2,100+ contributors)
+    framework for managing your zsh configuration. Includes 300+ optional plugins
+    (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes
+    to spice up your morning, and an auto-update tool so that makes it easy to keep
+    up with the latest updates from the community."
   author: ohmyzsh
   author's github: https://github.com/ohmyzsh
-  url: https://github.com/ohmyzsh/ohmyzsh
-  description: ""
   language: Shell
   tags: cli, cli-app, hacktoberfest, oh-my-zsh, oh-my-zsh-plugin, oh-my-zsh-theme,
     ohmyzsh, plugin-framework, plugins, productivity, shell, terminal, theme, themes,
     zsh, zsh-configuration
 - repo name: godocgo
+  url: https://github.com/natefinch/godocgo
+  description: An example of good godoc documentation.
   author: natefinch
   author's github: https://github.com/natefinch
-  url: https://github.com/natefinch/godocgo
-  description: ""
   language: Go
   tags: ""
 - repo name: Deep-Reinforcement-Learning-Algorithms
+  url: https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms
+  description: '32 projects in the framework of Deep Reinforcement Learning algorithms:
+    Q-learning, DQN, PPO, DDPG, TD3, SAC, A2C and others. Each project is provided
+    with a detailed training log.'
   author: Rafael1s
   author's github: https://github.com/Rafael1s
-  url: https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms
-  description: ""
   language: Jupyter Notebook
   tags: a2c, antbulletenv, bipedalwalker, carracing, cartpole, ddpg, deep-reinforcement-learning,
     deep-rl-algorithms, dqn, dqn-ppo-ddpg, github-udacity, halfcheetahbulletenv, hopperbulletenv,
     lunarlander, ppo, sac, soft-actor-critic, td3, walker2dbulletenv
 - repo name: live2d
+  url: https://github.com/imuncle/live2d
+  description: live2d模型收集+展示，可直接用于静态网站
   author: imuncle
   author's github: https://github.com/imuncle
-  url: https://github.com/imuncle/live2d
-  description: ""
   language: JavaScript
   tags: live2d, live2d-web
 - repo name: doudizhu-C
+  url: https://github.com/qq456cvb/doudizhu-C
+  description: C++/python fight the lord with pybind11 (强化学习AI斗地主), Accepted to AIIDE-2020
   author: qq456cvb
   author's github: https://github.com/qq456cvb
-  url: https://github.com/qq456cvb/doudizhu-C
-  description: ""
   language: Python
   tags: algorithm, dou-di-zhu
 - repo name: xgboost
+  url: https://github.com/dmlc/xgboost
+  description: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or
+    GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine,
+    Hadoop, Spark, Dask, Flink and DataFlow
   author: dmlc
   author's github: https://github.com/dmlc
-  url: https://github.com/dmlc/xgboost
-  description: ""
   language: C++
   tags: distributed-systems, gbdt, gbm, gbrt, machine-learning, xgboost
 - repo name: DouDiZhu
+  url: https://github.com/ZhouWeikuan/DouDiZhu
+  description: 基于权重的斗地主游戏AI算法，AI algorithms for chinese landlord card game, based
+    on weights
   author: ZhouWeikuan
   author's github: https://github.com/ZhouWeikuan
-  url: https://github.com/ZhouWeikuan/DouDiZhu
-  description: ""
   language: C++
   tags: ""
 - repo name: awesome-game-ai
+  url: https://github.com/datamllab/awesome-game-ai
+  description: Awesome Game AI materials of Multi-Agent Reinforcement Learning
   author: datamllab
   author's github: https://github.com/datamllab
-  url: https://github.com/datamllab/awesome-game-ai
-  description: ""
   language: ""
   tags: ai, awesome, game-ai, imperfect-information-games, multi-agent, reinforcement-learning
 - repo name: SummaryOfLoanSuspension
+  url: https://github.com/WeNeedHome/SummaryOfLoanSuspension
+  description: 全国各省市停贷通知汇总
   author: WeNeedHome
   author's github: https://github.com/WeNeedHome
-  url: https://github.com/WeNeedHome/SummaryOfLoanSuspension
-  description: ""
   language: HTML
   tags: ""
 - repo name: Grasscutter
+  url: https://github.com/Grasscutters/Grasscutter
+  description: A server software reimplementation for a certain anime game.
   author: Grasscutters
   author's github: https://github.com/Grasscutters
-  url: https://github.com/Grasscutters/Grasscutter
-  description: ""
   language: Java
   tags: java, kcp, private-server, server
 - repo name: K8s-Series
+  url: https://github.com/wx-chevalier/K8s-Series
+  description: 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
   author: wx-chevalier
   author's github: https://github.com/wx-chevalier
-  url: https://github.com/wx-chevalier/K8s-Series
-  description: ""
   language: HTML
   tags: k8s, kube, kubernetes
 - repo name: DouyinSimplifyEdition
+  url: https://github.com/GoldenAmor/DouyinSimplifyEdition
+  description: '[字节跳动后端青训营] 极简版抖音大项目-Team：3306'
   author: GoldenAmor
   author's github: https://github.com/GoldenAmor
-  url: https://github.com/GoldenAmor/DouyinSimplifyEdition
-  description: ""
   language: Go
   tags: ""
 - repo name: dousheng
+  url: https://github.com/Blinklyk/dousheng
+  description: bytecamp-100010
   author: Blinklyk
   author's github: https://github.com/Blinklyk
-  url: https://github.com/Blinklyk/dousheng
-  description: ""
   language: Go
   tags: ""
 - repo name: go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
   author: zeromicro
   author's github: https://github.com/zeromicro
-  url: https://github.com/zeromicro/go-zero
-  description: ""
   language: Go
   tags: cloud-native, code-generation, framework, gateway, go, go-zero, goctl, golang,
     gozero, grpc-gateway, microservice, microservice-framework, microservices, microservices-architecture,
     rest-api, restful, restful-api, rpc, rpc-framework, web-framework
 - repo name: docker-tutorial
+  url: https://github.com/jaywcjlove/docker-tutorial
+  description: "\U0001F433 Docker入门学习笔记"
   author: jaywcjlove
   author's github: https://github.com/jaywcjlove
-  url: https://github.com/jaywcjlove/docker-tutorial
-  description: ""
   language: ""
   tags: docker, docker-redis, docker-registry, docker-tutorial, mysql-docker
 - repo name: tiktok
+  url: https://github.com/a76yyyy/tiktok
+  description: 基于 kitex RPC微服务 + Hertz HTTP服务完成的第三届字节跳动青训营-极简抖音后端项目
   author: a76yyyy
   author's github: https://github.com/a76yyyy
-  url: https://github.com/a76yyyy/tiktok
-  description: ""
   language: Go
   tags: ""
 - repo name: douyin
+  url: https://github.com/gityh2021/douyin
+  description: 字节青训营项目
   author: gityh2021
   author's github: https://github.com/gityh2021
-  url: https://github.com/gityh2021/douyin
-  description: ""
   language: Go
   tags: ""
 - repo name: ByteYoungDB
-  author: thuyy
-  author's github: https://github.com/thuyy
   url: https://github.com/thuyy/ByteYoungDB
   description: ""
+  author: thuyy
+  author's github: https://github.com/thuyy
   language: C++
   tags: ""
 - repo name: zh-google-styleguide
+  url: https://github.com/zh-google-styleguide/zh-google-styleguide
+  description: Google 开源项目风格指南 (中文版)
   author: zh-google-styleguide
   author's github: https://github.com/zh-google-styleguide
-  url: https://github.com/zh-google-styleguide/zh-google-styleguide
-  description: ""
   language: Makefile
   tags: ""
 - repo name: redisbloom-go
+  url: https://github.com/RedisBloom/redisbloom-go
+  description: Go Client for RedisBloom probabilistic module
   author: RedisBloom
   author's github: https://github.com/RedisBloom
-  url: https://github.com/RedisBloom/redisbloom-go
-  description: ""
   language: Go
   tags: bloom-filter, golang, redis, redis-client, redisbloom
 - repo name: go-spider
+  url: https://github.com/kid1110/go-spider
+  description: 使用go并发爬取qq新闻网站（学习使用）
   author: kid1110
   author's github: https://github.com/kid1110
-  url: https://github.com/kid1110/go-spider
-  description: ""
   language: Go
   tags: ""
 - repo name: ddia
+  url: https://github.com/Vonng/ddia
+  description: 《Designing Data-Intensive Application》DDIA中文翻译
   author: Vonng
   author's github: https://github.com/Vonng
-  url: https://github.com/Vonng/ddia
-  description: ""
   language: Python
   tags: book, database, ddia, distributed-systems
 - repo name: TikTokLite
-  author: jhzol
-  author's github: https://github.com/jhzol
   url: https://github.com/jhzol/TikTokLite
   description: ""
+  author: jhzol
+  author's github: https://github.com/jhzol
   language: Go
   tags: ""
 - repo name: the-little-redis-book
-  author: JasonLai256
-  author's github: https://github.com/JasonLai256
   url: https://github.com/JasonLai256/the-little-redis-book
   description: ""
+  author: JasonLai256
+  author's github: https://github.com/JasonLai256
   language: ""
   tags: ""
 - repo name: jwt-go
+  url: https://github.com/dgrijalva/jwt-go
+  description: 'ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project
+    is now maintained at:'
   author: dgrijalva
   author's github: https://github.com/dgrijalva
-  url: https://github.com/dgrijalva/jwt-go
-  description: ""
   language: Go
   tags: ""
 - repo name: deepin-wine
+  url: https://github.com/zq1997/deepin-wine
+  description: 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
   author: zq1997
   author's github: https://github.com/zq1997
-  url: https://github.com/zq1997/deepin-wine
-  description: ""
   language: Python
   tags: deepin, deepin-wine, linux, qq, wechat, wine
 - repo name: deepin-wine-wechat-arch
+  url: https://github.com/vufa/deepin-wine-wechat-arch
+  description: Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
   author: vufa
   author's github: https://github.com/vufa
-  url: https://github.com/vufa/deepin-wine-wechat-arch
-  description: ""
   language: Shell
   tags: archlinux, aur, deepin, deepin-wine, wechat, wine
 - repo name: etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of
+    a distributed system
   author: etcd-io
   author's github: https://github.com/etcd-io
-  url: https://github.com/etcd-io/etcd
-  description: ""
   language: Go
   tags: cncf, consensus, database, distributed-database, distributed-systems, etcd,
     go, key-value, kubernetes, raft
 - repo name: protobuf
+  url: https://github.com/protocolbuffers/protobuf
+  description: Protocol Buffers - Google's data interchange format
   author: protocolbuffers
   author's github: https://github.com/protocolbuffers
-  url: https://github.com/protocolbuffers/protobuf
-  description: ""
   language: C++
   tags: marshalling, protobuf, protobuf-runtime, protoc, protocol-buffers, protocol-compiler,
     rpc, serialization
 - repo name: coder-kung-fu
+  url: https://github.com/yanfeizhang/coder-kung-fu
+  description: 开发内功修炼
   author: yanfeizhang
   author's github: https://github.com/yanfeizhang
-  url: https://github.com/yanfeizhang/coder-kung-fu
-  description: ""
   language: C
   tags: ""
 - repo name: uber_go_guide_cn
+  url: https://github.com/xxjwxc/uber_go_guide_cn
+  description: 'Uber Go 语言编码规范中文版. The Uber Go Style Guide . '
   author: xxjwxc
   author's github: https://github.com/xxjwxc
-  url: https://github.com/xxjwxc/uber_go_guide_cn
-  description: ""
   language: ""
   tags: chinese, cn, go, guide, style, uber
 - repo name: go-clean-arch
+  url: https://github.com/bxcodec/go-clean-arch
+  description: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
   author: bxcodec
   author's github: https://github.com/bxcodec
-  url: https://github.com/bxcodec/go-clean-arch
-  description: ""
   language: Go
   tags: architecture, article, clean-architecture, database, go, golang, mysql, sql
 - repo name: mysql-tutorial
+  url: https://github.com/jaywcjlove/mysql-tutorial
+  description: MySQL入门教程（MySQL tutorial book）
   author: jaywcjlove
   author's github: https://github.com/jaywcjlove
-  url: https://github.com/jaywcjlove/mysql-tutorial
-  description: ""
   language: ""
   tags: centos7-mysql, mariadb-mysql, mysql, mysql-tutorial, sql-mysql
 - repo name: 7days-golang
+  url: https://github.com/geektutu/7days-golang
+  description: 7 days golang programs from scratch (web framework Gee, distributed
+    cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework
+    GeeRPC etc)  7天用Go动手写/从零实现系列
   author: geektutu
   author's github: https://github.com/geektutu
-  url: https://github.com/geektutu/7days-golang
-  description: ""
   language: Go
   tags: golang, learning, scratch, starter-project
 - repo name: db-tutorial
+  url: https://github.com/dunwu/db-tutorial
+  description: "\U0001F4DA db-tutorial 是一个数据库教程。"
   author: dunwu
   author's github: https://github.com/dunwu
-  url: https://github.com/dunwu/db-tutorial
-  description: ""
   language: Java
   tags: database, db, elasticsearch, mongodb, mysql, nosql, redis, sql
 - repo name: Effective-CSharp
+  url: https://github.com/LaiYizhou/Effective-CSharp
+  description: 《Effective C# 2nd》（英文版） 和 《Effective C# 3rd》（中文版） 学习笔记及总结
   author: LaiYizhou
   author's github: https://github.com/LaiYizhou
-  url: https://github.com/LaiYizhou/Effective-CSharp
-  description: ""
   language: ""
   tags: csharp, effect-csharp
 - repo name: effective-go-zh-en
+  url: https://github.com/bingohuang/effective-go-zh-en
+  description: 《Effective Go》中英双语版
   author: bingohuang
   author's github: https://github.com/bingohuang
-  url: https://github.com/bingohuang/effective-go-zh-en
-  description: ""
   language: ""
   tags: ""
 - repo name: go-by-example
-  author: wangkechun
-  author's github: https://github.com/wangkechun
   url: https://github.com/wangkechun/go-by-example
   description: ""
+  author: wangkechun
+  author's github: https://github.com/wangkechun
   language: Go
   tags: ""
 - repo name: go-fundamental-programming
+  url: https://github.com/unknwon/go-fundamental-programming
+  description: 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
   author: unknwon
   author's github: https://github.com/unknwon
-  url: https://github.com/unknwon/go-fundamental-programming
-  description: ""
   language: Go
   tags: ""
 - repo name: CLR_via_CSharp
+  url: https://github.com/fhlsteven/CLR_via_CSharp
+  description: CLR Via C# 第四版
   author: fhlsteven
   author's github: https://github.com/fhlsteven
-  url: https://github.com/fhlsteven/CLR_via_CSharp
-  description: ""
   language: C#
   tags: ""
 - repo name: RLexample
+  url: https://github.com/ucla-rlcourse/RLexample
+  description: Some basic examples of playing with RL
   author: ucla-rlcourse
   author's github: https://github.com/ucla-rlcourse
-  url: https://github.com/ucla-rlcourse/RLexample
-  description: ""
   language: Python
   tags: ""
 - repo name: baby-a3c
+  url: https://github.com/greydanus/baby-a3c
+  description: A high-performance Atari A3C agent in 180 lines of PyTorch
   author: greydanus
   author's github: https://github.com/greydanus
-  url: https://github.com/greydanus/baby-a3c
-  description: ""
   language: Python
   tags: a3c, actor-critic, atari, deep-reinforcement-learning, pytorch, pytorch-a3c,
     pytorch-rl
 - repo name: introRL
+  url: https://github.com/zhoubolei/introRL
+  description: Intro to Reinforcement Learning (强化学习纲要）
   author: zhoubolei
   author's github: https://github.com/zhoubolei
-  url: https://github.com/zhoubolei/introRL
-  description: ""
   language: ""
   tags: ""
 - repo name: spinningup
+  url: https://github.com/openai/spinningup
+  description: An educational resource to help anyone learn deep reinforcement learning.
   author: openai
   author's github: https://github.com/openai
-  url: https://github.com/openai/spinningup
-  description: ""
   language: Python
   tags: ""
 - repo name: run
+  url: https://github.com/The-Run-Philosophy-Organization/run
+  description: 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
   author: The-Run-Philosophy-Organization
   author's github: https://github.com/The-Run-Philosophy-Organization
-  url: https://github.com/The-Run-Philosophy-Organization/run
-  description: ""
   language: ""
   tags: ""
 - repo name: PARL
+  url: https://github.com/PaddlePaddle/PARL
+  description: 'A high-performance distributed training framework for Reinforcement
+    Learning '
   author: PaddlePaddle
   author's github: https://github.com/PaddlePaddle
-  url: https://github.com/PaddlePaddle/PARL
-  description: ""
   language: Python
   tags: large-scale, parallelization, reinforcement-learning
 - repo name: gym
+  url: https://github.com/openai/gym
+  description: A toolkit for developing and comparing reinforcement learning algorithms.
   author: openai
   author's github: https://github.com/openai
-  url: https://github.com/openai/gym
-  description: ""
   language: Python
   tags: ""
 - repo name: SLM-Lab
+  url: https://github.com/kengz/SLM-Lab
+  description: Modular Deep Reinforcement Learning framework in PyTorch. Companion
+    library of the book "Foundations of Deep Reinforcement Learning".
   author: kengz
   author's github: https://github.com/kengz
-  url: https://github.com/kengz/SLM-Lab
-  description: ""
   language: Python
   tags: a2c, a3c, benchmark, deep-reinforcement-learning, dqn, policy-gradient, ppo,
     pytorch, reinforcement-learning, sac
 - repo name: ECCV2022-RIFE
+  url: https://github.com/megvii-research/ECCV2022-RIFE
+  description: ECCV2022-Real-Time Intermediate Flow Estimation for Video Frame Interpolation
   author: megvii-research
   author's github: https://github.com/megvii-research
-  url: https://github.com/megvii-research/ECCV2022-RIFE
-  description: ""
   language: Python
   tags: computer-vision, deep-learning, slomo-filter, video-interpolation
 - repo name: Squirrel-RIFE
+  url: https://github.com/Justin62628/Squirrel-RIFE
+  description: 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
   author: Justin62628
   author's github: https://github.com/Justin62628
-  url: https://github.com/Justin62628/Squirrel-RIFE
-  description: ""
   language: Python
   tags: animation, interpolation, rife, slomo, smooth, video, videoframeinterpolation
 - repo name: deep-reinforcement-learning
+  url: https://github.com/udacity/deep-reinforcement-learning
+  description: Repo for the Deep Reinforcement Learning Nanodegree program
   author: udacity
   author's github: https://github.com/udacity
-  url: https://github.com/udacity/deep-reinforcement-learning
-  description: ""
   language: Jupyter Notebook
   tags: cross-entropy, ddpg, deep-reinforcement-learning, dqn, dynamic-programming,
     hill-climbing, ml-agents, neural-networks, openai-gym, openai-gym-solutions, ppo,
     pytorch, pytorch-rl, reinforcement-learning, reinforcement-learning-algorithms,
     rl-algorithms
 - repo name: blog
+  url: https://github.com/ChenYFan/blog
+  description: 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
   author: ChenYFan
   author's github: https://github.com/ChenYFan
-  url: https://github.com/ChenYFan/blog
-  description: ""
   language: EJS
   tags: awesome, blog, hexo, hexo-blog, programming, travis-ci
 - repo name: LeetcodeTop
+  url: https://github.com/afatcoder/LeetcodeTop
+  description: "汇总各大互联网公司容易考察的高频leetcode题\U0001F525         推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-codetop"
   author: afatcoder
   author's github: https://github.com/afatcoder
-  url: https://github.com/afatcoder/LeetcodeTop
-  description: ""
   language: ""
   tags: interview, leetcode
 - repo name: TrafficMonitor
+  url: https://github.com/zhongyang219/TrafficMonitor
+  description: 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
   author: zhongyang219
   author's github: https://github.com/zhongyang219
-  url: https://github.com/zhongyang219/TrafficMonitor
-  description: ""
   language: C++
   tags: ""
 - repo name: the-economist-ebooks
+  url: https://github.com/hehonghui/the-economist-ebooks
+  description: 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式,
+    每周更新.
   author: hehonghui
   author's github: https://github.com/hehonghui
-  url: https://github.com/hehonghui/the-economist-ebooks
-  description: ""
   language: CSS
   tags: atlantic, download, ebook, economist-ebooks, epub, guardian, kindle, magazine,
     mobi, nature, nature-magazine, new-scientist, new-yorker, newsweek, pdf, scientific-american,
     subscription, te-audio, the-economist, the-economist-magazine
 - repo name: DouZero_For_HLDDZ_FullAuto
+  url: https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto
+  description: 将DouZero用于欢乐斗地主自动化
   author: Vincentzyx
   author's github: https://github.com/Vincentzyx
-  url: https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto
-  description: ""
   language: Python
   tags: ""
 - repo name: DouZero
+  url: https://github.com/kwai/DouZero
+  description: '[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement
+    Learning | 斗地主AI'
   author: kwai
   author's github: https://github.com/kwai
-  url: https://github.com/kwai/DouZero
-  description: ""
   language: Python
   tags: doudizhu, game-ai, poker, reinforcement-learning
 - repo name: live2d-widget
+  url: https://github.com/stevenjoezhang/live2d-widget
+  description: 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
   author: stevenjoezhang
   author's github: https://github.com/stevenjoezhang
-  url: https://github.com/stevenjoezhang/live2d-widget
-  description: ""
   language: JavaScript
   tags: javascript-plugin, live2d
 - repo name: live2d-widget.js
+  url: https://github.com/xiazeyu/live2d-widget.js
+  description: Live2D on webpages with out-of-the-box experience.
   author: xiazeyu
   author's github: https://github.com/xiazeyu
-  url: https://github.com/xiazeyu/live2d-widget.js
-  description: ""
   language: JavaScript
   tags: ""
 - repo name: LoveIt
+  url: https://github.com/dillonzq/LoveIt
+  description: ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo
+    主题
   author: dillonzq
   author's github: https://github.com/dillonzq
-  url: https://github.com/dillonzq/LoveIt
-  description: ""
   language: JavaScript
   tags: hugo, hugo-blog-theme, hugo-theme
 - repo name: lewky.github.io
+  url: https://github.com/lewky/lewky.github.io
+  description: This repository is deployed by my hugo blog. Please feel free to access
+    my personal blog and many thanks!
   author: lewky
   author's github: https://github.com/lewky
-  url: https://github.com/lewky/lewky.github.io
-  description: ""
   language: HTML
   tags: hugo-blog, hugo-theme-loveit-custom, lewky-cn
 - repo name: FixIt
+  url: https://github.com/hugo-fixit/FixIt
+  description: "\U0001F527 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的
+    Hugo 主题"
   author: hugo-fixit
   author's github: https://github.com/hugo-fixit
-  url: https://github.com/hugo-fixit/FixIt
-  description: ""
   language: JavaScript
   tags: blog, fixit, hugo, hugo-blog, hugo-blog-theme, hugo-theme, hugo-theme-fixit
 - repo name: Wechatsync
+  url: https://github.com/wechatsync/Wechatsync
+  description: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
   author: wechatsync
   author's github: https://github.com/wechatsync
-  url: https://github.com/wechatsync/Wechatsync
-  description: ""
   language: JavaScript
   tags: blog, chrome, chrome-extension, markdown, multiplatform, spider, vue, wechat-official-account,
     writer
 - repo name: BDFramework.Core
+  url: https://github.com/yimengfan/BDFramework.Core
+  description: Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d
+    工作流。
   author: yimengfan
   author's github: https://github.com/yimengfan
-  url: https://github.com/yimengfan/BDFramework.Core
-  description: ""
   language: C#
   tags: csharpgame, framework, game, gameframe, hotfix, hotupdate, ilr, ilruntime,
     u3d, unity, unity-framework, unity2d, unity3d, unity3d-framework, unity3d-game-workflow,
     unity3d-games, unity3d-hotfix
 - repo name: xasset
+  url: https://github.com/xasset/xasset
+  description: 让开发时间更有价值
   author: xasset
   author's github: https://github.com/xasset
-  url: https://github.com/xasset/xasset
-  description: ""
   language: C#
   tags: assetbundle, unity, xasset
 - repo name: Unity3DTraining
+  url: https://github.com/XINCGer/Unity3DTraining
+  description: 【Unity杂货铺】unity大杂烩~
   author: XINCGer
   author's github: https://github.com/XINCGer
-  url: https://github.com/XINCGer/Unity3DTraining
-  description: ""
   language: C#
   tags: unity3d
 - repo name: ColaFrameWork
+  url: https://github.com/XINCGer/ColaFrameWork
+  description: ColaFrameWork 一个Unity客户端框架
   author: XINCGer
   author's github: https://github.com/XINCGer
-  url: https://github.com/XINCGer/ColaFrameWork
-  description: ""
   language: C#
   tags: csharp, game-development, gameframework, mvc-pattern, unity
 - repo name: awesome-image-classification
+  url: https://github.com/weiaicunzai/awesome-image-classification
+  description: A curated list of deep learning image classification papers and codes
   author: weiaicunzai
   author's github: https://github.com/weiaicunzai
-  url: https://github.com/weiaicunzai/awesome-image-classification
-  description: ""
   language: ""
   tags: awesome, awesome-list, computer-vision, deep-learning, image-classification,
     papers
 - repo name: CampusPlus
+  url: https://github.com/windstormeye/CampusPlus
+  description: 大学+ v2.0 ——— 智慧校园综合服务平台
   author: windstormeye
   author's github: https://github.com/windstormeye
-  url: https://github.com/windstormeye/CampusPlus
-  description: ""
   language: Objective-C
   tags: ""
 - repo name: jynew
+  url: https://github.com/jynew/jynew
+  description: JinYongLegend-like RPG Game Framework with full Modding support
   author: jynew
   author's github: https://github.com/jynew
-  url: https://github.com/jynew/jynew
-  description: ""
   language: C#
   tags: game-development, jinyong, unity
 - repo name: Hung_Yi_Lee_ML_2021
+  url: https://github.com/1am9trash/Hung_Yi_Lee_ML_2021
+  description: 李宏毅教授 2021年機器學習 作業與筆記匯總
   author: 1am9trash
   author's github: https://github.com/1am9trash
-  url: https://github.com/1am9trash/Hung_Yi_Lee_ML_2021
-  description: ""
   language: Jupyter Notebook
   tags: ""
 - repo name: pytorch-doc-zh
+  url: https://github.com/apachecn/pytorch-doc-zh
+  description: Pytorch 中文文档
   author: apachecn
   author's github: https://github.com/apachecn
-  url: https://github.com/apachecn/pytorch-doc-zh
-  description: ""
   language: JavaScript
   tags: deep-learning, documentation, python, pytorch
 - repo name: pytorch-summary
+  url: https://github.com/sksq96/pytorch-summary
+  description: Model summary in PyTorch similar to `model.summary()` in Keras
   author: sksq96
   author's github: https://github.com/sksq96
-  url: https://github.com/sksq96/pytorch-summary
-  description: ""
   language: Python
   tags: deep-learning, keras, pytorch, summary
 - repo name: PyTorch_Tutorial
+  url: https://github.com/TingsongYu/PyTorch_Tutorial
+  description: 《Pytorch模型训练实用教程》中配套代码
   author: TingsongYu
   author's github: https://github.com/TingsongYu
-  url: https://github.com/TingsongYu/PyTorch_Tutorial
-  description: ""
   language: Python
   tags: ""
 - repo name: d2l-zh
+  url: https://github.com/d2l-ai/d2l-zh
+  description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
   author: d2l-ai
   author's github: https://github.com/d2l-ai
-  url: https://github.com/d2l-ai/d2l-zh
-  description: ""
   language: Python
   tags: book, chinese, computer-vision, deep-learning, machine-learning, natural-language-processing,
     notebook, python
 - repo name: UniRx
+  url: https://github.com/neuecc/UniRx
+  description: Reactive Extensions for Unity
   author: neuecc
   author's github: https://github.com/neuecc
-  url: https://github.com/neuecc/UniRx
-  description: ""
   language: C#
   tags: c-sharp, linq, reactive-extensions, rx, unirx, unity
 - repo name: xLua
+  url: https://github.com/Tencent/xLua
+  description: xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it
+    supports android, ios, windows, linux, osx, etc.
   author: Tencent
   author's github: https://github.com/Tencent
-  url: https://github.com/Tencent/xLua
-  description: ""
   language: C
   tags: csharp, lua, unity, unity3d, xlua
 - repo name: 3d-game-shaders-for-beginners
+  url: https://github.com/lettier/3d-game-shaders-for-beginners
+  description: "\U0001F3AE A step-by-step guide to implementing SSAO, depth of field,
+    lighting, normal mapping, and more for your 3D game."
   author: lettier
   author's github: https://github.com/lettier
-  url: https://github.com/lettier/3d-game-shaders-for-beginners
-  description: ""
   language: C++
   tags: 3d, 3d-graphics, game-development, gamedev, glsl, glsl-shader, glsl-shaders,
     godot, graphics, graphics-programming, hlsl, indiedev, opengl, panda3d, shader,
     shaders, unity, unity3d, vulkan, webgl
 - repo name: UnityMMO
+  url: https://github.com/liuhaopen/UnityMMO
+  description: an unity mmo demo, base on ecs(game play), xlua(ui)
   author: liuhaopen
   author's github: https://github.com/liuhaopen
-  url: https://github.com/liuhaopen/UnityMMO
-  description: ""
   language: Lua
   tags: ecs, entities, gameplay, lua, lua-ecs, mmo, unity, xlua
 - repo name: reinforcement-learning
+  url: https://github.com/rlcode/reinforcement-learning
+  description: Minimal and Clean Reinforcement Learning Examples
   author: rlcode
   author's github: https://github.com/rlcode
-  url: https://github.com/rlcode/reinforcement-learning
-  description: ""
   language: Python
   tags: a3c, actor-critic, deep-learning, deep-q-network, deep-reinforcement-learning,
     dqn, machine-learning, policy-gradient, reinforcement-learning
 - repo name: ml-agents
+  url: https://github.com/Unity-Technologies/ml-agents
+  description: The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source
+    project that enables games and simulations to serve as environments for training
+    intelligent agents using deep reinforcement learning and imitation learning.
   author: Unity-Technologies
   author's github: https://github.com/Unity-Technologies
-  url: https://github.com/Unity-Technologies/ml-agents
-  description: ""
   language: C#
   tags: deep-learning, deep-reinforcement-learning, machine-learning, neural-networks,
     reinforcement-learning, unity, unity3d
 - repo name: tiny_ml
+  url: https://github.com/fengyang95/tiny_ml
+  description: numpy 实现的 周志华《机器学习》书中的算法及其他一些传统机器学习算法
   author: fengyang95
   author's github: https://github.com/fengyang95
-  url: https://github.com/fengyang95/tiny_ml
-  description: ""
   language: Python
   tags: boosting, classification, clustering, decision-tree, dimension-reduction,
     ensemble, gbdt, lr, machine-learning, numpy, python3, regression, svm
 - repo name: lihang-code
+  url: https://github.com/fengdu78/lihang-code
+  description: 《统计学习方法》的代码实现
   author: fengdu78
   author's github: https://github.com/fengdu78
-  url: https://github.com/fengdu78/lihang-code
-  description: ""
   language: Jupyter Notebook
   tags: ""
 - repo name: DRL
+  url: https://github.com/wangshusen/DRL
+  description: Deep Reinforcement Learning
   author: wangshusen
   author's github: https://github.com/wangshusen
-  url: https://github.com/wangshusen/DRL
-  description: ""
   language: ""
   tags: ""
 - repo name: Reinforcement-Learning-with-Unity-and-PyTorch
+  url: https://github.com/HFBN/Reinforcement-Learning-with-Unity-and-PyTorch
+  description: Intuitive, high-quality Implementations of several State-of-the-Art
+    Reinforcement Learning Algorithms solving various Unity-based Environments.
   author: HFBN
   author's github: https://github.com/HFBN
-  url: https://github.com/HFBN/Reinforcement-Learning-with-Unity-and-PyTorch
-  description: ""
   language: Jupyter Notebook
   tags: ddpg, deep-learning, deep-q-learning, deep-q-network, deep-reinforcement-learning,
     multi-agent-reinforcement-learning, pytorch, q-learning, reinforcement-learning,
     td3, unity
 - repo name: rlcard
+  url: https://github.com/datamllab/rlcard
+  description: Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack,
+    Leduc, Texas, DouDizhu, Mahjong, UNO.
   author: datamllab
   author's github: https://github.com/datamllab
-  url: https://github.com/datamllab/rlcard
-  description: ""
   language: Python
   tags: ai, blackjack, card-game, card-games, deep-reinforcement-learning, doudizhu,
     game, game-ai, game-bot, gym-environment, mahjong, multi-agent, openai-gym, poker,
     poker-game, reinforcement-learning, texas, uno
 - repo name: pytorch-tutorial
+  url: https://github.com/yunjey/pytorch-tutorial
+  description: PyTorch Tutorial for Deep Learning Researchers
   author: yunjey
   author's github: https://github.com/yunjey
-  url: https://github.com/yunjey/pytorch-tutorial
-  description: ""
   language: Python
   tags: deep-learning, neural-networks, pytorch, pytorch-tutorial
 - repo name: Lhy_Machine_Learning
+  url: https://github.com/Fafa-DL/Lhy_Machine_Learning
+  description: 李宏毅2021/2022/2023春季机器学习课程课件及作业
   author: Fafa-DL
   author's github: https://github.com/Fafa-DL
-  url: https://github.com/Fafa-DL/Lhy_Machine_Learning
-  description: ""
   language: Jupyter Notebook
   tags: ""
 - repo name: pumpkin-book
+  url: https://github.com/datawhalechina/pumpkin-book
+  description: 《机器学习》（西瓜书）公式详解
   author: datawhalechina
   author's github: https://github.com/datawhalechina
-  url: https://github.com/datawhalechina/pumpkin-book
-  description: ""
   language: ""
   tags: book, machine-learning, pumpkin-book
 - repo name: Machine-Learning_ZhouZhihua
+  url: https://github.com/PnYuan/Machine-Learning_ZhouZhihua
+  description: Exercises answers to the book "machine-learning" written by Prof. Zhou
+    Zhihua of Nanjing University
   author: PnYuan
   author's github: https://github.com/PnYuan
-  url: https://github.com/PnYuan/Machine-Learning_ZhouZhihua
-  description: ""
   language: HTML
   tags: ""
 - repo name: kratos-pjax
+  url: https://github.com/xb2016/kratos-pjax
+  description: "\U0001F368 A lovely WordPress theme [DEPRECATED]"
   author: xb2016
   author's github: https://github.com/xb2016
-  url: https://github.com/xb2016/kratos-pjax
-  description: ""
   language: PHP
   tags: kratos, pjax, theme, wordpresss
 - repo name: ACES-blender-colour-management
+  url: https://github.com/thezakman/ACES-blender-colour-management
+  description: OCIO config with standard sRGB, XYZ, Filmic and ACES colour management
+    options.
   author: thezakman
   author's github: https://github.com/thezakman
-  url: https://github.com/thezakman/ACES-blender-colour-management
-  description: ""
   language: ""
   tags: ""
 - repo name: cats-blender-plugin
+  url: https://github.com/absolute-quantum/cats-blender-plugin
+  description: ':smiley_cat: A tool designed to shorten steps needed to import and
+    optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser,
+    Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more'
   author: absolute-quantum
   author's github: https://github.com/absolute-quantum
-  url: https://github.com/absolute-quantum/cats-blender-plugin
-  description: ""
   language: Python
   tags: 3dsmax, blender, mixamo, mmd, motionbuilder, vrchat, xnalara
 - repo name: TOML
+  url: https://github.com/LongTengDao/TOML
+  description: 汤小明语的官方文档汉化。唯一不依赖缩进的完美配置文件格式。Wiki 中有教程。
   author: LongTengDao
   author's github: https://github.com/LongTengDao
-  url: https://github.com/LongTengDao/TOML
-  description: ""
   language: ""
   tags: toml
 - repo name: gaming-platform-gui
-  author: SCIJLab
-  author's github: https://github.com/SCIJLab
   url: https://github.com/SCIJLab/gaming-platform-gui
   description: ""
+  author: SCIJLab
+  author's github: https://github.com/SCIJLab
   language: ""
   tags: ""
 - repo name: How-To-Ask-Questions-The-Smart-Way
+  url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+  description: 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
   author: ryanhanwu
   author's github: https://github.com/ryanhanwu
-  url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
-  description: ""
   language: JavaScript
   tags: rtfm, stfw, translation
 - repo name: Dango-Translator
+  url: https://github.com/PantsuDango/Dango-Translator
+  description: 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
   author: PantsuDango
   author's github: https://github.com/PantsuDango
-  url: https://github.com/PantsuDango/Dango-Translator
-  description: ""
   language: Python
   tags: ""
 - repo name: ToyRTX
+  url: https://github.com/Ubpa/ToyRTX
+  description: CPU & GPU RTX based on OpenGL
   author: Ubpa
   author's github: https://github.com/Ubpa
-  url: https://github.com/Ubpa/ToyRTX
-  description: ""
   language: C++
   tags: cpp, opengl, raytracing
 - repo name: 996.ICU
+  url: https://github.com/996icu/996.ICU
+  description: Repo for counting stars and contributing. Press F to pay respect to
+    glorious developers.
   author: 996icu
   author's github: https://github.com/996icu
-  url: https://github.com/996icu/996.ICU
-  description: ""
   language: ""
   tags: ""
 - repo name: three.js
+  url: https://github.com/mrdoob/three.js
+  description: JavaScript 3D Library.
   author: mrdoob
   author's github: https://github.com/mrdoob
-  url: https://github.com/mrdoob/three.js
-  description: ""
   language: JavaScript
   tags: 3d, augmented-reality, canvas, html5, javascript, svg, virtual-reality, webaudio,
     webgl, webgl2, webgpu, webxr
 - repo name: pbrt-v2
+  url: https://github.com/mmp/pbrt-v2
+  description: Source code for the version of pbrt described in the second edition
+    of "Physically Based Rendering"
   author: mmp
   author's github: https://github.com/mmp
-  url: https://github.com/mmp/pbrt-v2
-  description: ""
   language: C++
   tags: ""
 - repo name: libpku
+  url: https://github.com/lib-pku/libpku
+  description: 贵校课程资料民间整理
   author: lib-pku
   author's github: https://github.com/lib-pku
-  url: https://github.com/lib-pku/libpku
-  description: ""
   language: TeX
   tags: ""
 - repo name: Unity_Shaders_Book
+  url: https://github.com/candycat1992/Unity_Shaders_Book
+  description: ':book: 书籍《Unity Shader入门精要》源代码'
   author: candycat1992
   author's github: https://github.com/candycat1992
-  url: https://github.com/candycat1992/Unity_Shaders_Book
-  description: ""
   language: ShaderLab
   tags: ""
 - repo name: MOAAP
+  url: https://github.com/johnhany/MOAAP
+  description: Updated source codes for book Mastering OpenCV Android Application
+    Programming and it's Chinese edition 《深入OpenCV Android应用开发》.
   author: johnhany
   author's github: https://github.com/johnhany
-  url: https://github.com/johnhany/MOAAP
-  description: ""
   language: Java
   tags: ""
 - repo name: SimpleRayTracing
+  url: https://github.com/IceDustEl/SimpleRayTracing
+  description: Real time ray tracing example
   author: IceDustEl
   author's github: https://github.com/IceDustEl
-  url: https://github.com/IceDustEl/SimpleRayTracing
-  description: ""
   language: C#
   tags: ""
 - repo name: LearnOpenGL
+  url: https://github.com/JoeyDeVries/LearnOpenGL
+  description: Code repository of all OpenGL chapters from the book and its accompanying
+    website https://learnopengl.com
   author: JoeyDeVries
   author's github: https://github.com/JoeyDeVries
-  url: https://github.com/JoeyDeVries/LearnOpenGL
-  description: ""
   language: C++
   tags: ""
 - repo name: MyUnityFrameWork
+  url: https://github.com/GaoKaiHaHa/MyUnityFrameWork
+  description: 我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统
   author: GaoKaiHaHa
   author's github: https://github.com/GaoKaiHaHa
-  url: https://github.com/GaoKaiHaHa/MyUnityFrameWork
-  description: ""
   language: C#
   tags: ""
 - repo name: GacUI
+  url: https://github.com/vczh-libraries/GacUI
+  description: GPU Accelerated C++ User Interface, with WYSIWYG developing tools,
+    XML supports, built-in data binding and MVVM features.
   author: vczh-libraries
   author's github: https://github.com/vczh-libraries
-  url: https://github.com/vczh-libraries/GacUI
-  description: ""
   language: C++
   tags: ""
 - repo name: PostProcessing
+  url: https://github.com/Unity-Technologies/PostProcessing
+  description: Post Processing Stack
   author: Unity-Technologies
   author's github: https://github.com/Unity-Technologies
-  url: https://github.com/Unity-Technologies/PostProcessing
-  description: ""
   language: C#
   tags: effects, post-processing, unity
 - repo name: UnityVOXFileImport
+  url: https://github.com/ray-cast/UnityVOXFileImport
+  description: "\U0001F308 A tool to import a .vox file for Unity's GameObject and
+    Prefab"
   author: ray-cast
   author's github: https://github.com/ray-cast
-  url: https://github.com/ray-cast/UnityVOXFileImport
-  description: ""
   language: C#
   tags: cube, magicavoxel, vox, voxel
 - repo name: ray-mmd
+  url: https://github.com/ray-cast/ray-mmd
+  description: "\U0001F3A8 The project is designed to create a physically-based rendering
+    at mikumikudance."
   author: ray-cast
   author's github: https://github.com/ray-cast
-  url: https://github.com/ray-cast/ray-mmd
-  description: ""
   language: HLSL
   tags: mikumikudance, mmd, mme, pbr, physicall-based-rendering
