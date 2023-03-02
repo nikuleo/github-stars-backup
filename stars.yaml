@@ -1,0 +1,1026 @@
+- repo name: DRQN_Stock_Trading
+  author: conditionWang
+  author's github: https://github.com/conditionWang
+  url: https://github.com/conditionWang/DRQN_Stock_Trading
+  description: ""
+  language: Python
+  tags: drqn, lstm, reinforcement-learning, stock-trading
+- repo name: podcast
+  author: bumingbaipod
+  author's github: https://github.com/bumingbaipod
+  url: https://github.com/bumingbaipod/podcast
+  description: ""
+  language: ""
+  tags: ""
+- repo name: MES40
+  author: KH40-khoast40
+  author's github: https://github.com/KH40-khoast40
+  url: https://github.com/KH40-khoast40/MES40
+  description: ""
+  language: HLSL
+  tags: diva, fx, hlsl, materials, mikumikudance, mikumikueffect, mmd, mme, project,
+    shader, shadow
+- repo name: PyTorch-Deep-Recurrent-Q-Learning-DRQN
+  author: Bigpig4396
+  author's github: https://github.com/Bigpig4396
+  url: https://github.com/Bigpig4396/PyTorch-Deep-Recurrent-Q-Learning-DRQN
+  description: ""
+  language: Python
+  tags: ""
+- repo name: recurrent-ppo-truncated-bptt
+  author: MarcoMeter
+  author's github: https://github.com/MarcoMeter
+  url: https://github.com/MarcoMeter/recurrent-ppo-truncated-bptt
+  description: ""
+  language: Jupyter Notebook
+  tags: actor-critic, bptt, deep-learning, deep-reinforcement-learning, gru, lstm,
+    on-policy, policy-gradient, pomdp, ppo, proximal-policy-optimization, pytorch,
+    recurrence, recurrent, recurrent-neural-networks, truncated
+- repo name: RL-LSTM
+  author: RL-LSTM
+  author's github: https://github.com/RL-LSTM
+  url: https://github.com/RL-LSTM/RL-LSTM
+  description: ""
+  language: Python
+  tags: ""
+- repo name: ConvLSTM_pytorch
+  author: ndrplz
+  author's github: https://github.com/ndrplz
+  url: https://github.com/ndrplz/ConvLSTM_pytorch
+  description: ""
+  language: Python
+  tags: ""
+- repo name: dl_learning
+  author: liuyixin-louis
+  author's github: https://github.com/liuyixin-louis
+  url: https://github.com/liuyixin-louis/dl_learning
+  description: ""
+  language: Jupyter Notebook
+  tags: ""
+- repo name: text_classification
+  author: brightmart
+  author's github: https://github.com/brightmart
+  url: https://github.com/brightmart/text_classification
+  description: ""
+  language: Python
+  tags: attention-mechanism, classification, convolutional-neural-networks, fasttext,
+    memory-networks, multi-class, multi-label, nlp, sentence-classification, tensorflow,
+    text-classification, textcnn, textrnn
+- repo name: cocogoat-signin
+  author: Akegarasu
+  author's github: https://github.com/Akegarasu
+  url: https://github.com/Akegarasu/cocogoat-signin
+  description: ""
+  language: Go
+  tags: genshin, golang
+- repo name: ImageAI-colab-ver
+  author: JingShing
+  author's github: https://github.com/JingShing
+  url: https://github.com/JingShing/ImageAI-colab-ver
+  description: ""
+  language: ""
+  tags: ai, colab, colab-notebook, drawing, encrypt, encrypted, encryption, encryption-decryption,
+    imageai, ipynb, ipython-notebook, stable-diffusion-tutorial, tutorial
+- repo name: TikTokLite
+  author: xiaodainiao
+  author's github: https://github.com/xiaodainiao
+  url: https://github.com/xiaodainiao/TikTokLite
+  description: ""
+  language: Go
+  tags: ""
+- repo name: mikutap
+  author: HFIProgramming
+  author's github: https://github.com/HFIProgramming
+  url: https://github.com/HFIProgramming/mikutap
+  description: ""
+  language: HTML
+  tags: css, html, js, mikutap, music
+- repo name: run
+  author: better-run
+  author's github: https://github.com/better-run
+  url: https://github.com/better-run/run
+  description: ""
+  language: ""
+  tags: run
+- repo name: AI-Drawing-Spell-Generator
+  author: JingShing
+  author's github: https://github.com/JingShing
+  url: https://github.com/JingShing/AI-Drawing-Spell-Generator
+  description: ""
+  language: Python
+  tags: dictionary, generator, imageai, keyword, novelai, python, stable-diffusion,
+    tag, tags, tkinter, tkinter-gui, word
+- repo name: DouDiZhu
+  author: "1310183534"
+  author's github: https://github.com/1310183534
+  url: https://github.com/1310183534/DouDiZhu
+  description: ""
+  language: Python
+  tags: ""
+- repo name: stylegan2-pytorch
+  author: lucidrains
+  author's github: https://github.com/lucidrains
+  url: https://github.com/lucidrains/stylegan2-pytorch
+  description: ""
+  language: Python
+  tags: artificial-intelligence, generative-adversarial-network, generative-model,
+    machine-learning, pytorch
+- repo name: RuleBasedModelV2
+  author: deecamp2019-group20
+  author's github: https://github.com/deecamp2019-group20
+  url: https://github.com/deecamp2019-group20/RuleBasedModelV2
+  description: ""
+  language: Python
+  tags: ""
+- repo name: dueling-DQN-pytorch
+  author: gouxiangchen
+  author's github: https://github.com/gouxiangchen
+  url: https://github.com/gouxiangchen/dueling-DQN-pytorch
+  description: ""
+  language: Python
+  tags: ""
+- repo name: OpenAI-Gym-LunarLander-v2-Double-Dueling-DQN
+  author: bmaxdk
+  author's github: https://github.com/bmaxdk
+  url: https://github.com/bmaxdk/OpenAI-Gym-LunarLander-v2-Double-Dueling-DQN
+  description: ""
+  language: Jupyter Notebook
+  tags: deep-reinforcement-learning, double-dqn, dueling-dqn, pytorch, reinforcement-learning
+- repo name: RL-Algorithms-by-Pytorch
+  author: XinJingHao
+  author's github: https://github.com/XinJingHao
+  url: https://github.com/XinJingHao/RL-Algorithms-by-Pytorch
+  description: ""
+  language: ""
+  tags: ""
+- repo name: go-wrk
+  author: adjust
+  author's github: https://github.com/adjust
+  url: https://github.com/adjust/go-wrk
+  description: ""
+  language: Go
+  tags: ""
+- repo name: doudizhu
+  author: CaoYuanpu
+  author's github: https://github.com/CaoYuanpu
+  url: https://github.com/CaoYuanpu/doudizhu
+  description: ""
+  language: Python
+  tags: ""
+- repo name: smoothscroll-for-websites
+  author: gblazex
+  author's github: https://github.com/gblazex
+  url: https://github.com/gblazex/smoothscroll-for-websites
+  description: ""
+  language: JavaScript
+  tags: ""
+- repo name: tianshou
+  author: thu-ml
+  author's github: https://github.com/thu-ml
+  url: https://github.com/thu-ml/tianshou
+  description: ""
+  language: Python
+  tags: a2c, atari, bcq, benchmark, cql, ddpg, double-dqn, dqn, drl, imitation-learning,
+    library, mujoco, npg, policy-gradient, ppo, pytorch, rl, sac, td3, trpo
+- repo name: fight
+  author: BillyWangwzx
+  author's github: https://github.com/BillyWangwzx
+  url: https://github.com/BillyWangwzx/fight
+  description: ""
+  language: Python
+  tags: ""
+- repo name: fighting_the_landlord
+  author: leyiqiang
+  author's github: https://github.com/leyiqiang
+  url: https://github.com/leyiqiang/fighting_the_landlord
+  description: ""
+  language: Python
+  tags: ""
+- repo name: doudizhu
+  author: thuxugang
+  author's github: https://github.com/thuxugang
+  url: https://github.com/thuxugang/doudizhu
+  description: ""
+  language: Python
+  tags: ai, card-game, doudizhu, dqn, mcts, reinforcement-learning
+- repo name: MCTS
+  author: haroldsultan
+  author's github: https://github.com/haroldsultan
+  url: https://github.com/haroldsultan/MCTS
+  description: ""
+  language: Python
+  tags: ""
+- repo name: sniper
+  author: go-kiss
+  author's github: https://github.com/go-kiss
+  url: https://github.com/go-kiss/sniper
+  description: ""
+  language: Go
+  tags: go, golang, golang-framework, grpc, http, rpc
+- repo name: ohmyzsh
+  author: ohmyzsh
+  author's github: https://github.com/ohmyzsh
+  url: https://github.com/ohmyzsh/ohmyzsh
+  description: ""
+  language: Shell
+  tags: cli, cli-app, hacktoberfest, oh-my-zsh, oh-my-zsh-plugin, oh-my-zsh-theme,
+    ohmyzsh, plugin-framework, plugins, productivity, shell, terminal, theme, themes,
+    zsh, zsh-configuration
+- repo name: godocgo
+  author: natefinch
+  author's github: https://github.com/natefinch
+  url: https://github.com/natefinch/godocgo
+  description: ""
+  language: Go
+  tags: ""
+- repo name: Deep-Reinforcement-Learning-Algorithms
+  author: Rafael1s
+  author's github: https://github.com/Rafael1s
+  url: https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms
+  description: ""
+  language: Jupyter Notebook
+  tags: a2c, antbulletenv, bipedalwalker, carracing, cartpole, ddpg, deep-reinforcement-learning,
+    deep-rl-algorithms, dqn, dqn-ppo-ddpg, github-udacity, halfcheetahbulletenv, hopperbulletenv,
+    lunarlander, ppo, sac, soft-actor-critic, td3, walker2dbulletenv
+- repo name: live2d
+  author: imuncle
+  author's github: https://github.com/imuncle
+  url: https://github.com/imuncle/live2d
+  description: ""
+  language: JavaScript
+  tags: live2d, live2d-web
+- repo name: doudizhu-C
+  author: qq456cvb
+  author's github: https://github.com/qq456cvb
+  url: https://github.com/qq456cvb/doudizhu-C
+  description: ""
+  language: Python
+  tags: algorithm, dou-di-zhu
+- repo name: xgboost
+  author: dmlc
+  author's github: https://github.com/dmlc
+  url: https://github.com/dmlc/xgboost
+  description: ""
+  language: C++
+  tags: distributed-systems, gbdt, gbm, gbrt, machine-learning, xgboost
+- repo name: DouDiZhu
+  author: ZhouWeikuan
+  author's github: https://github.com/ZhouWeikuan
+  url: https://github.com/ZhouWeikuan/DouDiZhu
+  description: ""
+  language: C++
+  tags: ""
+- repo name: awesome-game-ai
+  author: datamllab
+  author's github: https://github.com/datamllab
+  url: https://github.com/datamllab/awesome-game-ai
+  description: ""
+  language: ""
+  tags: ai, awesome, game-ai, imperfect-information-games, multi-agent, reinforcement-learning
+- repo name: SummaryOfLoanSuspension
+  author: WeNeedHome
+  author's github: https://github.com/WeNeedHome
+  url: https://github.com/WeNeedHome/SummaryOfLoanSuspension
+  description: ""
+  language: HTML
+  tags: ""
+- repo name: Grasscutter
+  author: Grasscutters
+  author's github: https://github.com/Grasscutters
+  url: https://github.com/Grasscutters/Grasscutter
+  description: ""
+  language: Java
+  tags: java, kcp, private-server, server
+- repo name: K8s-Series
+  author: wx-chevalier
+  author's github: https://github.com/wx-chevalier
+  url: https://github.com/wx-chevalier/K8s-Series
+  description: ""
+  language: HTML
+  tags: k8s, kube, kubernetes
+- repo name: DouyinSimplifyEdition
+  author: GoldenAmor
+  author's github: https://github.com/GoldenAmor
+  url: https://github.com/GoldenAmor/DouyinSimplifyEdition
+  description: ""
+  language: Go
+  tags: ""
+- repo name: dousheng
+  author: Blinklyk
+  author's github: https://github.com/Blinklyk
+  url: https://github.com/Blinklyk/dousheng
+  description: ""
+  language: Go
+  tags: ""
+- repo name: go-zero
+  author: zeromicro
+  author's github: https://github.com/zeromicro
+  url: https://github.com/zeromicro/go-zero
+  description: ""
+  language: Go
+  tags: cloud-native, code-generation, framework, gateway, go, go-zero, goctl, golang,
+    gozero, grpc-gateway, microservice, microservice-framework, microservices, microservices-architecture,
+    rest-api, restful, restful-api, rpc, rpc-framework, web-framework
+- repo name: docker-tutorial
+  author: jaywcjlove
+  author's github: https://github.com/jaywcjlove
+  url: https://github.com/jaywcjlove/docker-tutorial
+  description: ""
+  language: ""
+  tags: docker, docker-redis, docker-registry, docker-tutorial, mysql-docker
+- repo name: tiktok
+  author: a76yyyy
+  author's github: https://github.com/a76yyyy
+  url: https://github.com/a76yyyy/tiktok
+  description: ""
+  language: Go
+  tags: ""
+- repo name: douyin
+  author: gityh2021
+  author's github: https://github.com/gityh2021
+  url: https://github.com/gityh2021/douyin
+  description: ""
+  language: Go
+  tags: ""
+- repo name: ByteYoungDB
+  author: thuyy
+  author's github: https://github.com/thuyy
+  url: https://github.com/thuyy/ByteYoungDB
+  description: ""
+  language: C++
+  tags: ""
+- repo name: zh-google-styleguide
+  author: zh-google-styleguide
+  author's github: https://github.com/zh-google-styleguide
+  url: https://github.com/zh-google-styleguide/zh-google-styleguide
+  description: ""
+  language: Makefile
+  tags: ""
+- repo name: redisbloom-go
+  author: RedisBloom
+  author's github: https://github.com/RedisBloom
+  url: https://github.com/RedisBloom/redisbloom-go
+  description: ""
+  language: Go
+  tags: bloom-filter, golang, redis, redis-client, redisbloom
+- repo name: go-spider
+  author: kid1110
+  author's github: https://github.com/kid1110
+  url: https://github.com/kid1110/go-spider
+  description: ""
+  language: Go
+  tags: ""
+- repo name: ddia
+  author: Vonng
+  author's github: https://github.com/Vonng
+  url: https://github.com/Vonng/ddia
+  description: ""
+  language: Python
+  tags: book, database, ddia, distributed-systems
+- repo name: TikTokLite
+  author: jhzol
+  author's github: https://github.com/jhzol
+  url: https://github.com/jhzol/TikTokLite
+  description: ""
+  language: Go
+  tags: ""
+- repo name: the-little-redis-book
+  author: JasonLai256
+  author's github: https://github.com/JasonLai256
+  url: https://github.com/JasonLai256/the-little-redis-book
+  description: ""
+  language: ""
+  tags: ""
+- repo name: jwt-go
+  author: dgrijalva
+  author's github: https://github.com/dgrijalva
+  url: https://github.com/dgrijalva/jwt-go
+  description: ""
+  language: Go
+  tags: ""
+- repo name: deepin-wine
+  author: zq1997
+  author's github: https://github.com/zq1997
+  url: https://github.com/zq1997/deepin-wine
+  description: ""
+  language: Python
+  tags: deepin, deepin-wine, linux, qq, wechat, wine
+- repo name: deepin-wine-wechat-arch
+  author: vufa
+  author's github: https://github.com/vufa
+  url: https://github.com/vufa/deepin-wine-wechat-arch
+  description: ""
+  language: Shell
+  tags: archlinux, aur, deepin, deepin-wine, wechat, wine
+- repo name: etcd
+  author: etcd-io
+  author's github: https://github.com/etcd-io
+  url: https://github.com/etcd-io/etcd
+  description: ""
+  language: Go
+  tags: cncf, consensus, database, distributed-database, distributed-systems, etcd,
+    go, key-value, kubernetes, raft
+- repo name: protobuf
+  author: protocolbuffers
+  author's github: https://github.com/protocolbuffers
+  url: https://github.com/protocolbuffers/protobuf
+  description: ""
+  language: C++
+  tags: marshalling, protobuf, protobuf-runtime, protoc, protocol-buffers, protocol-compiler,
+    rpc, serialization
+- repo name: coder-kung-fu
+  author: yanfeizhang
+  author's github: https://github.com/yanfeizhang
+  url: https://github.com/yanfeizhang/coder-kung-fu
+  description: ""
+  language: C
+  tags: ""
+- repo name: uber_go_guide_cn
+  author: xxjwxc
+  author's github: https://github.com/xxjwxc
+  url: https://github.com/xxjwxc/uber_go_guide_cn
+  description: ""
+  language: ""
+  tags: chinese, cn, go, guide, style, uber
+- repo name: go-clean-arch
+  author: bxcodec
+  author's github: https://github.com/bxcodec
+  url: https://github.com/bxcodec/go-clean-arch
+  description: ""
+  language: Go
+  tags: architecture, article, clean-architecture, database, go, golang, mysql, sql
+- repo name: mysql-tutorial
+  author: jaywcjlove
+  author's github: https://github.com/jaywcjlove
+  url: https://github.com/jaywcjlove/mysql-tutorial
+  description: ""
+  language: ""
+  tags: centos7-mysql, mariadb-mysql, mysql, mysql-tutorial, sql-mysql
+- repo name: 7days-golang
+  author: geektutu
+  author's github: https://github.com/geektutu
+  url: https://github.com/geektutu/7days-golang
+  description: ""
+  language: Go
+  tags: golang, learning, scratch, starter-project
+- repo name: db-tutorial
+  author: dunwu
+  author's github: https://github.com/dunwu
+  url: https://github.com/dunwu/db-tutorial
+  description: ""
+  language: Java
+  tags: database, db, elasticsearch, mongodb, mysql, nosql, redis, sql
+- repo name: Effective-CSharp
+  author: LaiYizhou
+  author's github: https://github.com/LaiYizhou
+  url: https://github.com/LaiYizhou/Effective-CSharp
+  description: ""
+  language: ""
+  tags: csharp, effect-csharp
+- repo name: effective-go-zh-en
+  author: bingohuang
+  author's github: https://github.com/bingohuang
+  url: https://github.com/bingohuang/effective-go-zh-en
+  description: ""
+  language: ""
+  tags: ""
+- repo name: go-by-example
+  author: wangkechun
+  author's github: https://github.com/wangkechun
+  url: https://github.com/wangkechun/go-by-example
+  description: ""
+  language: Go
+  tags: ""
+- repo name: go-fundamental-programming
+  author: unknwon
+  author's github: https://github.com/unknwon
+  url: https://github.com/unknwon/go-fundamental-programming
+  description: ""
+  language: Go
+  tags: ""
+- repo name: CLR_via_CSharp
+  author: fhlsteven
+  author's github: https://github.com/fhlsteven
+  url: https://github.com/fhlsteven/CLR_via_CSharp
+  description: ""
+  language: C#
+  tags: ""
+- repo name: RLexample
+  author: ucla-rlcourse
+  author's github: https://github.com/ucla-rlcourse
+  url: https://github.com/ucla-rlcourse/RLexample
+  description: ""
+  language: Python
+  tags: ""
+- repo name: baby-a3c
+  author: greydanus
+  author's github: https://github.com/greydanus
+  url: https://github.com/greydanus/baby-a3c
+  description: ""
+  language: Python
+  tags: a3c, actor-critic, atari, deep-reinforcement-learning, pytorch, pytorch-a3c,
+    pytorch-rl
+- repo name: introRL
+  author: zhoubolei
+  author's github: https://github.com/zhoubolei
+  url: https://github.com/zhoubolei/introRL
+  description: ""
+  language: ""
+  tags: ""
+- repo name: spinningup
+  author: openai
+  author's github: https://github.com/openai
+  url: https://github.com/openai/spinningup
+  description: ""
+  language: Python
+  tags: ""
+- repo name: run
+  author: The-Run-Philosophy-Organization
+  author's github: https://github.com/The-Run-Philosophy-Organization
+  url: https://github.com/The-Run-Philosophy-Organization/run
+  description: ""
+  language: ""
+  tags: ""
+- repo name: PARL
+  author: PaddlePaddle
+  author's github: https://github.com/PaddlePaddle
+  url: https://github.com/PaddlePaddle/PARL
+  description: ""
+  language: Python
+  tags: large-scale, parallelization, reinforcement-learning
+- repo name: gym
+  author: openai
+  author's github: https://github.com/openai
+  url: https://github.com/openai/gym
+  description: ""
+  language: Python
+  tags: ""
+- repo name: SLM-Lab
+  author: kengz
+  author's github: https://github.com/kengz
+  url: https://github.com/kengz/SLM-Lab
+  description: ""
+  language: Python
+  tags: a2c, a3c, benchmark, deep-reinforcement-learning, dqn, policy-gradient, ppo,
+    pytorch, reinforcement-learning, sac
+- repo name: ECCV2022-RIFE
+  author: megvii-research
+  author's github: https://github.com/megvii-research
+  url: https://github.com/megvii-research/ECCV2022-RIFE
+  description: ""
+  language: Python
+  tags: computer-vision, deep-learning, slomo-filter, video-interpolation
+- repo name: Squirrel-RIFE
+  author: Justin62628
+  author's github: https://github.com/Justin62628
+  url: https://github.com/Justin62628/Squirrel-RIFE
+  description: ""
+  language: Python
+  tags: animation, interpolation, rife, slomo, smooth, video, videoframeinterpolation
+- repo name: deep-reinforcement-learning
+  author: udacity
+  author's github: https://github.com/udacity
+  url: https://github.com/udacity/deep-reinforcement-learning
+  description: ""
+  language: Jupyter Notebook
+  tags: cross-entropy, ddpg, deep-reinforcement-learning, dqn, dynamic-programming,
+    hill-climbing, ml-agents, neural-networks, openai-gym, openai-gym-solutions, ppo,
+    pytorch, pytorch-rl, reinforcement-learning, reinforcement-learning-algorithms,
+    rl-algorithms
+- repo name: blog
+  author: ChenYFan
+  author's github: https://github.com/ChenYFan
+  url: https://github.com/ChenYFan/blog
+  description: ""
+  language: EJS
+  tags: awesome, blog, hexo, hexo-blog, programming, travis-ci
+- repo name: LeetcodeTop
+  author: afatcoder
+  author's github: https://github.com/afatcoder
+  url: https://github.com/afatcoder/LeetcodeTop
+  description: ""
+  language: ""
+  tags: interview, leetcode
+- repo name: TrafficMonitor
+  author: zhongyang219
+  author's github: https://github.com/zhongyang219
+  url: https://github.com/zhongyang219/TrafficMonitor
+  description: ""
+  language: C++
+  tags: ""
+- repo name: the-economist-ebooks
+  author: hehonghui
+  author's github: https://github.com/hehonghui
+  url: https://github.com/hehonghui/the-economist-ebooks
+  description: ""
+  language: CSS
+  tags: atlantic, download, ebook, economist-ebooks, epub, guardian, kindle, magazine,
+    mobi, nature, nature-magazine, new-scientist, new-yorker, newsweek, pdf, scientific-american,
+    subscription, te-audio, the-economist, the-economist-magazine
+- repo name: DouZero_For_HLDDZ_FullAuto
+  author: Vincentzyx
+  author's github: https://github.com/Vincentzyx
+  url: https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto
+  description: ""
+  language: Python
+  tags: ""
+- repo name: DouZero
+  author: kwai
+  author's github: https://github.com/kwai
+  url: https://github.com/kwai/DouZero
+  description: ""
+  language: Python
+  tags: doudizhu, game-ai, poker, reinforcement-learning
+- repo name: live2d-widget
+  author: stevenjoezhang
+  author's github: https://github.com/stevenjoezhang
+  url: https://github.com/stevenjoezhang/live2d-widget
+  description: ""
+  language: JavaScript
+  tags: javascript-plugin, live2d
+- repo name: live2d-widget.js
+  author: xiazeyu
+  author's github: https://github.com/xiazeyu
+  url: https://github.com/xiazeyu/live2d-widget.js
+  description: ""
+  language: JavaScript
+  tags: ""
+- repo name: LoveIt
+  author: dillonzq
+  author's github: https://github.com/dillonzq
+  url: https://github.com/dillonzq/LoveIt
+  description: ""
+  language: JavaScript
+  tags: hugo, hugo-blog-theme, hugo-theme
+- repo name: lewky.github.io
+  author: lewky
+  author's github: https://github.com/lewky
+  url: https://github.com/lewky/lewky.github.io
+  description: ""
+  language: HTML
+  tags: hugo-blog, hugo-theme-loveit-custom, lewky-cn
+- repo name: FixIt
+  author: hugo-fixit
+  author's github: https://github.com/hugo-fixit
+  url: https://github.com/hugo-fixit/FixIt
+  description: ""
+  language: JavaScript
+  tags: blog, fixit, hugo, hugo-blog, hugo-blog-theme, hugo-theme, hugo-theme-fixit
+- repo name: Wechatsync
+  author: wechatsync
+  author's github: https://github.com/wechatsync
+  url: https://github.com/wechatsync/Wechatsync
+  description: ""
+  language: JavaScript
+  tags: blog, chrome, chrome-extension, markdown, multiplatform, spider, vue, wechat-official-account,
+    writer
+- repo name: BDFramework.Core
+  author: yimengfan
+  author's github: https://github.com/yimengfan
+  url: https://github.com/yimengfan/BDFramework.Core
+  description: ""
+  language: C#
+  tags: csharpgame, framework, game, gameframe, hotfix, hotupdate, ilr, ilruntime,
+    u3d, unity, unity-framework, unity2d, unity3d, unity3d-framework, unity3d-game-workflow,
+    unity3d-games, unity3d-hotfix
+- repo name: xasset
+  author: xasset
+  author's github: https://github.com/xasset
+  url: https://github.com/xasset/xasset
+  description: ""
+  language: C#
+  tags: assetbundle, unity, xasset
+- repo name: Unity3DTraining
+  author: XINCGer
+  author's github: https://github.com/XINCGer
+  url: https://github.com/XINCGer/Unity3DTraining
+  description: ""
+  language: C#
+  tags: unity3d
+- repo name: ColaFrameWork
+  author: XINCGer
+  author's github: https://github.com/XINCGer
+  url: https://github.com/XINCGer/ColaFrameWork
+  description: ""
+  language: C#
+  tags: csharp, game-development, gameframework, mvc-pattern, unity
+- repo name: awesome-image-classification
+  author: weiaicunzai
+  author's github: https://github.com/weiaicunzai
+  url: https://github.com/weiaicunzai/awesome-image-classification
+  description: ""
+  language: ""
+  tags: awesome, awesome-list, computer-vision, deep-learning, image-classification,
+    papers
+- repo name: CampusPlus
+  author: windstormeye
+  author's github: https://github.com/windstormeye
+  url: https://github.com/windstormeye/CampusPlus
+  description: ""
+  language: Objective-C
+  tags: ""
+- repo name: jynew
+  author: jynew
+  author's github: https://github.com/jynew
+  url: https://github.com/jynew/jynew
+  description: ""
+  language: C#
+  tags: game-development, jinyong, unity
+- repo name: Hung_Yi_Lee_ML_2021
+  author: 1am9trash
+  author's github: https://github.com/1am9trash
+  url: https://github.com/1am9trash/Hung_Yi_Lee_ML_2021
+  description: ""
+  language: Jupyter Notebook
+  tags: ""
+- repo name: pytorch-doc-zh
+  author: apachecn
+  author's github: https://github.com/apachecn
+  url: https://github.com/apachecn/pytorch-doc-zh
+  description: ""
+  language: JavaScript
+  tags: deep-learning, documentation, python, pytorch
+- repo name: pytorch-summary
+  author: sksq96
+  author's github: https://github.com/sksq96
+  url: https://github.com/sksq96/pytorch-summary
+  description: ""
+  language: Python
+  tags: deep-learning, keras, pytorch, summary
+- repo name: PyTorch_Tutorial
+  author: TingsongYu
+  author's github: https://github.com/TingsongYu
+  url: https://github.com/TingsongYu/PyTorch_Tutorial
+  description: ""
+  language: Python
+  tags: ""
+- repo name: d2l-zh
+  author: d2l-ai
+  author's github: https://github.com/d2l-ai
+  url: https://github.com/d2l-ai/d2l-zh
+  description: ""
+  language: Python
+  tags: book, chinese, computer-vision, deep-learning, machine-learning, natural-language-processing,
+    notebook, python
+- repo name: UniRx
+  author: neuecc
+  author's github: https://github.com/neuecc
+  url: https://github.com/neuecc/UniRx
+  description: ""
+  language: C#
+  tags: c-sharp, linq, reactive-extensions, rx, unirx, unity
+- repo name: xLua
+  author: Tencent
+  author's github: https://github.com/Tencent
+  url: https://github.com/Tencent/xLua
+  description: ""
+  language: C
+  tags: csharp, lua, unity, unity3d, xlua
+- repo name: 3d-game-shaders-for-beginners
+  author: lettier
+  author's github: https://github.com/lettier
+  url: https://github.com/lettier/3d-game-shaders-for-beginners
+  description: ""
+  language: C++
+  tags: 3d, 3d-graphics, game-development, gamedev, glsl, glsl-shader, glsl-shaders,
+    godot, graphics, graphics-programming, hlsl, indiedev, opengl, panda3d, shader,
+    shaders, unity, unity3d, vulkan, webgl
+- repo name: UnityMMO
+  author: liuhaopen
+  author's github: https://github.com/liuhaopen
+  url: https://github.com/liuhaopen/UnityMMO
+  description: ""
+  language: Lua
+  tags: ecs, entities, gameplay, lua, lua-ecs, mmo, unity, xlua
+- repo name: reinforcement-learning
+  author: rlcode
+  author's github: https://github.com/rlcode
+  url: https://github.com/rlcode/reinforcement-learning
+  description: ""
+  language: Python
+  tags: a3c, actor-critic, deep-learning, deep-q-network, deep-reinforcement-learning,
+    dqn, machine-learning, policy-gradient, reinforcement-learning
+- repo name: ml-agents
+  author: Unity-Technologies
+  author's github: https://github.com/Unity-Technologies
+  url: https://github.com/Unity-Technologies/ml-agents
+  description: ""
+  language: C#
+  tags: deep-learning, deep-reinforcement-learning, machine-learning, neural-networks,
+    reinforcement-learning, unity, unity3d
+- repo name: tiny_ml
+  author: fengyang95
+  author's github: https://github.com/fengyang95
+  url: https://github.com/fengyang95/tiny_ml
+  description: ""
+  language: Python
+  tags: boosting, classification, clustering, decision-tree, dimension-reduction,
+    ensemble, gbdt, lr, machine-learning, numpy, python3, regression, svm
+- repo name: lihang-code
+  author: fengdu78
+  author's github: https://github.com/fengdu78
+  url: https://github.com/fengdu78/lihang-code
+  description: ""
+  language: Jupyter Notebook
+  tags: ""
+- repo name: DRL
+  author: wangshusen
+  author's github: https://github.com/wangshusen
+  url: https://github.com/wangshusen/DRL
+  description: ""
+  language: ""
+  tags: ""
+- repo name: Reinforcement-Learning-with-Unity-and-PyTorch
+  author: HFBN
+  author's github: https://github.com/HFBN
+  url: https://github.com/HFBN/Reinforcement-Learning-with-Unity-and-PyTorch
+  description: ""
+  language: Jupyter Notebook
+  tags: ddpg, deep-learning, deep-q-learning, deep-q-network, deep-reinforcement-learning,
+    multi-agent-reinforcement-learning, pytorch, q-learning, reinforcement-learning,
+    td3, unity
+- repo name: rlcard
+  author: datamllab
+  author's github: https://github.com/datamllab
+  url: https://github.com/datamllab/rlcard
+  description: ""
+  language: Python
+  tags: ai, blackjack, card-game, card-games, deep-reinforcement-learning, doudizhu,
+    game, game-ai, game-bot, gym-environment, mahjong, multi-agent, openai-gym, poker,
+    poker-game, reinforcement-learning, texas, uno
+- repo name: pytorch-tutorial
+  author: yunjey
+  author's github: https://github.com/yunjey
+  url: https://github.com/yunjey/pytorch-tutorial
+  description: ""
+  language: Python
+  tags: deep-learning, neural-networks, pytorch, pytorch-tutorial
+- repo name: Lhy_Machine_Learning
+  author: Fafa-DL
+  author's github: https://github.com/Fafa-DL
+  url: https://github.com/Fafa-DL/Lhy_Machine_Learning
+  description: ""
+  language: Jupyter Notebook
+  tags: ""
+- repo name: pumpkin-book
+  author: datawhalechina
+  author's github: https://github.com/datawhalechina
+  url: https://github.com/datawhalechina/pumpkin-book
+  description: ""
+  language: ""
+  tags: book, machine-learning, pumpkin-book
+- repo name: Machine-Learning_ZhouZhihua
+  author: PnYuan
+  author's github: https://github.com/PnYuan
+  url: https://github.com/PnYuan/Machine-Learning_ZhouZhihua
+  description: ""
+  language: HTML
+  tags: ""
+- repo name: kratos-pjax
+  author: xb2016
+  author's github: https://github.com/xb2016
+  url: https://github.com/xb2016/kratos-pjax
+  description: ""
+  language: PHP
+  tags: kratos, pjax, theme, wordpresss
+- repo name: ACES-blender-colour-management
+  author: thezakman
+  author's github: https://github.com/thezakman
+  url: https://github.com/thezakman/ACES-blender-colour-management
+  description: ""
+  language: ""
+  tags: ""
+- repo name: cats-blender-plugin
+  author: absolute-quantum
+  author's github: https://github.com/absolute-quantum
+  url: https://github.com/absolute-quantum/cats-blender-plugin
+  description: ""
+  language: Python
+  tags: 3dsmax, blender, mixamo, mmd, motionbuilder, vrchat, xnalara
+- repo name: TOML
+  author: LongTengDao
+  author's github: https://github.com/LongTengDao
+  url: https://github.com/LongTengDao/TOML
+  description: ""
+  language: ""
+  tags: toml
+- repo name: gaming-platform-gui
+  author: SCIJLab
+  author's github: https://github.com/SCIJLab
+  url: https://github.com/SCIJLab/gaming-platform-gui
+  description: ""
+  language: ""
+  tags: ""
+- repo name: How-To-Ask-Questions-The-Smart-Way
+  author: ryanhanwu
+  author's github: https://github.com/ryanhanwu
+  url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+  description: ""
+  language: JavaScript
+  tags: rtfm, stfw, translation
+- repo name: Dango-Translator
+  author: PantsuDango
+  author's github: https://github.com/PantsuDango
+  url: https://github.com/PantsuDango/Dango-Translator
+  description: ""
+  language: Python
+  tags: ""
+- repo name: ToyRTX
+  author: Ubpa
+  author's github: https://github.com/Ubpa
+  url: https://github.com/Ubpa/ToyRTX
+  description: ""
+  language: C++
+  tags: cpp, opengl, raytracing
+- repo name: 996.ICU
+  author: 996icu
+  author's github: https://github.com/996icu
+  url: https://github.com/996icu/996.ICU
+  description: ""
+  language: ""
+  tags: ""
+- repo name: three.js
+  author: mrdoob
+  author's github: https://github.com/mrdoob
+  url: https://github.com/mrdoob/three.js
+  description: ""
+  language: JavaScript
+  tags: 3d, augmented-reality, canvas, html5, javascript, svg, virtual-reality, webaudio,
+    webgl, webgl2, webgpu, webxr
+- repo name: pbrt-v2
+  author: mmp
+  author's github: https://github.com/mmp
+  url: https://github.com/mmp/pbrt-v2
+  description: ""
+  language: C++
+  tags: ""
+- repo name: libpku
+  author: lib-pku
+  author's github: https://github.com/lib-pku
+  url: https://github.com/lib-pku/libpku
+  description: ""
+  language: TeX
+  tags: ""
+- repo name: Unity_Shaders_Book
+  author: candycat1992
+  author's github: https://github.com/candycat1992
+  url: https://github.com/candycat1992/Unity_Shaders_Book
+  description: ""
+  language: ShaderLab
+  tags: ""
+- repo name: MOAAP
+  author: johnhany
+  author's github: https://github.com/johnhany
+  url: https://github.com/johnhany/MOAAP
+  description: ""
+  language: Java
+  tags: ""
+- repo name: SimpleRayTracing
+  author: IceDustEl
+  author's github: https://github.com/IceDustEl
+  url: https://github.com/IceDustEl/SimpleRayTracing
+  description: ""
+  language: C#
+  tags: ""
+- repo name: LearnOpenGL
+  author: JoeyDeVries
+  author's github: https://github.com/JoeyDeVries
+  url: https://github.com/JoeyDeVries/LearnOpenGL
+  description: ""
+  language: C++
+  tags: ""
+- repo name: MyUnityFrameWork
+  author: GaoKaiHaHa
+  author's github: https://github.com/GaoKaiHaHa
+  url: https://github.com/GaoKaiHaHa/MyUnityFrameWork
+  description: ""
+  language: C#
+  tags: ""
+- repo name: GacUI
+  author: vczh-libraries
+  author's github: https://github.com/vczh-libraries
+  url: https://github.com/vczh-libraries/GacUI
+  description: ""
+  language: C++
+  tags: ""
+- repo name: PostProcessing
+  author: Unity-Technologies
+  author's github: https://github.com/Unity-Technologies
+  url: https://github.com/Unity-Technologies/PostProcessing
+  description: ""
+  language: C#
+  tags: effects, post-processing, unity
+- repo name: UnityVOXFileImport
+  author: ray-cast
+  author's github: https://github.com/ray-cast
+  url: https://github.com/ray-cast/UnityVOXFileImport
+  description: ""
+  language: C#
+  tags: cube, magicavoxel, vox, voxel
+- repo name: ray-mmd
+  author: ray-cast
+  author's github: https://github.com/ray-cast
+  url: https://github.com/ray-cast/ray-mmd
+  description: ""
+  language: HLSL
+  tags: mikumikudance, mmd, mme, pbr, physicall-based-rendering
