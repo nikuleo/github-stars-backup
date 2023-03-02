@@ -4,19 +4,21 @@
 保存格式如下： 
 ```YAML
 - repo name: DRQN_Stock_Trading
+  url: https://github.com/conditionWang/DRQN_Stock_Trading
+  description: 'This is the code implementation of the paper "Financial Trading as
+    a Game: A Deep Reinforcement Learning Approach".'
   author: conditionWang
   author's github: https://github.com/conditionWang
-  url: https://github.com/conditionWang/DRQN_Stock_Trading
-  description: ""
   language: Python
   tags: drqn, lstm, reinforcement-learning, stock-trading
-- repo name: podcast
-  author: bumingbaipod
-  author's github: https://github.com/bumingbaipod
-  url: https://github.com/bumingbaipod/podcast
-  description: ""
-  language: ""
-  tags: ""
+- repo name: MES40
+  url: https://github.com/KH40-khoast40/MES40
+  description: MMD Extended Shader (MES40)
+  author: KH40-khoast40
+  author's github: https://github.com/KH40-khoast40
+  language: HLSL
+  tags: diva, fx, hlsl, materials, mikumikudance, mikumikueffect, mmd, mme, project,
+    shader, shadow
 ```
 
 ## 依赖
@@ -26,11 +28,11 @@
 ### 命令参数：
 ```bash
 -u [你的 github 用户名]
--p [你想要保存的文件路径]
+-p [你想要保存的文件路径(可选项)]
 -m [你收藏仓库的总数量]
 ```
 
 ### 使用案例：
 ```bash
-go run . -u=nikusaikou -m=141
+go run . -u=nikusaikou -p=stars -m=140
 ```
