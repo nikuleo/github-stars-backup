@@ -1,7 +1,7 @@
 [简体中文](README.zh_CN.md)
 
-## Github starred repo backup
-This application can backup your starred github repos save as YAML file.  
+## backup GitHub starred repos
+This application can backup your starred GitHub repos, saving them as a YAML file.  
 YAML file structure like this:
 ```YAML
 - repo name: DRQN_Stock_Trading
@@ -23,7 +23,7 @@ YAML file structure like this:
 ```
 
 ## Dependcies
-This app use gopkg.in/yaml.v2 to marshal serializes the repo struct provided into a YAML file.
+This app uses gopkg.in/yaml.v2 to serialize the repo struct into a YAML file.
 
 ## How to use
 ### application parameters:
