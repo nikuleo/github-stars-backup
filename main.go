@@ -10,6 +10,7 @@ import (
 	"net/http"
 	"os"
 	"strconv"
+	"sync"
 
 	yaml "gopkg.in/yaml.v2"
 )
@@ -39,13 +40,17 @@ type RepoYAML struct {
 
 func main() {
 	var (
-		username string
-		savePath string
-		maxRepo  string
+		username     string
+		savePath     string
+		maxRepo      string
+		useGoroutine string
+		allRepos     []RepoData
+		err          error
 	)
 	flag.StringVar(&username, "u", "", "your github username")
 	flag.StringVar(&savePath, "p", "", "your save path")
 	flag.StringVar(&maxRepo, "m", "100", "the maxinum number of your starred repos")
+	flag.StringVar(&useGoroutine, "g", "true", "use goroutine or not(true/false default: true)")
 	flag.Parse()
 
 	if username == "" {
@@ -57,7 +62,11 @@ func main() {
 		log.Fatalf("change \"maxRepo\" type error: %v", err)
 		return
 	}
-	allRepos, err := getStarredRepo(username, max)
+	if useGoroutine == "false" {
+		allRepos, err = getStarredRepo(username, max)
+	} else {
+		allRepos, err = getReposGoroutine(username, max)
+	}
 	if err != nil {
 		log.Fatalf("get repos error: %v", err)
 		return
@@ -85,7 +94,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("parse yaml error: %v", err)
 	}
-
+	var path string
 	if savePath != "" {
 		if _, err := os.Stat(savePath); errors.Is(err, os.ErrNotExist) {
 			err := os.Mkdir(savePath, 0700)
@@ -93,8 +102,10 @@ func main() {
 				log.Fatalf("create dir error: %v", err)
 			}
 		}
+		path = savePath + "/stars.yaml"
+	} else {
+		path = "stars.yaml"
 	}
-	path := savePath + "/stars.yaml"
 	err = ioutil.WriteFile(path, yamlData, 0644)
 	if err != nil {
 		log.Fatalf("write file error: %v", err)
@@ -132,5 +143,58 @@ func getStarredRepo(username string, maxRepo int) ([]RepoData, error) {
 		}
 		pageIdx++
 	}
+	return allRepos, nil
+}
+
+func getReposGoroutine(username string, maxRepo int) ([]RepoData, error) {
+	var (
+		repoCnt  int
+		allRepos []RepoData
+		ch       = make(chan struct{}, 5)
+		gerrors  = make(chan error)
+		wg       sync.WaitGroup
+		mu       sync.Mutex
+		done     = make(chan struct{})
+		// pageIdx  = 1
+	)
+
+	for i := 1; i < maxRepo/30+2; i++ {
+		ch <- struct{}{}
+		wg.Add(1)
+		go func(pageIdx int) {
+			defer func() {
+				wg.Done()
+				<-ch
+			}()
+			resp, err := http.Get(fmt.Sprintf("https://api.github.com/users/%s/starred?page=%d&per_page=%d", username, pageIdx, 30))
+			if err != nil {
+				gerrors <- err
+			}
+			body, err := ioutil.ReadAll(resp.Body)
+			if err != nil {
+				gerrors <- err
+			}
+			var jsonData []RepoData
+			if err := json.Unmarshal(body, &jsonData); err != nil {
+				gerrors <- err
+			}
+
+			mu.Lock()
+			repoCnt += len(jsonData)
+			allRepos = append(allRepos, jsonData...)
+			mu.Unlock()
+		}(i)
+	}
+	go func() {
+		wg.Wait()
+		close(done)
+	}()
+	select {
+	case err := <-gerrors:
+		return nil, err
+	case <-done:
+		break
+	}
+
 	return allRepos, nil
 }
