@@ -31,9 +31,10 @@ This app uses gopkg.in/yaml.v2 to serialize the repo struct into a YAML file.
 -u [your github username]
 -p [the directory you want to save to. (optional)]
 -m [the maxinum number of your starred repos]
+-g [use goroutine or not true/false default: true(optional. if true the result is unordered))]
 ```
 
 ### Usage example:
 ```bash
-go run . -u=nikusaikou -p=stars -m=140
+go run . -u=nikusaikou -p=stars -m=140 -g=false
 ```

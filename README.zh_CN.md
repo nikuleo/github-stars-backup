@@ -30,9 +30,10 @@
 -u [你的 github 用户名]
 -p [你想要保存的文件路径(可选项)]
 -m [你收藏仓库的总数量]
+-g [是否使用 goroutine 并行爬取(可选项，默认值为 true. 如果为 true 返回每一页之间结果无序)]
 ```
 
 ### 使用案例：
 ```bash
-go run . -u=nikusaikou -p=stars -m=140
+go run . -u=nikusaikou -p=stars -m=140 -g=false
 ```
